@@ -17,4 +17,4 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: ${{ github.repository_owner }}/actions@master
+      - uses: is-oop-y28/actions@master
